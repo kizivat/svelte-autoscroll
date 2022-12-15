@@ -16,7 +16,7 @@ The above `div` will automatically scroll to the end (bottom and right) when eit
 ## Installation
 
 ```bash
-npm i svelte-autoscroll-action # or `yarn add svelte-autoscroll-action`
+npm i @kizivat/svelte-autoscroll
 ```
 
 ## Usage
@@ -25,7 +25,7 @@ Make sure the `autoscroll` element has overflow set to `auto` or `scroll` in at 
 
 ```html
 <script>
-	import autoscroll from 'svelte-autoscroll-action';
+	import autoscroll from '@kizivat/svelte-autoscroll';
 </script>
 
 <div use:autoscroll>...</div>

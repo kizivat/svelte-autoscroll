@@ -1,6 +1,6 @@
 {
 	"name": "@kizivat/svelte-autoscroll",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Svelte action to automatically scroll to the end of an element.",
 	"private": false,
 	"scripts": {

@@ -1,8 +1,10 @@
 # Svelte Autoscroll Action
 
-![npm (scoped)](https://img.shields.io/npm/v/@kizivat/svelte-autoscroll?style=plastic)
+![npm (scoped)](https://img.shields.io/npm/v/@kizivat/svelte-autoscroll)
 
 Svelte action to automatically scroll to the end of an element.
+
+See demo at [https://kizivat.eu/svelte-autoscroll/].
 
 Simply used with the `use` directive.
 

@@ -1,4 +1,4 @@
-export function autoscroll(
+export default function autoscroll(
 	node: HTMLElement,
 	options: ScrollOptions = { behavior: 'smooth' }
 ) {

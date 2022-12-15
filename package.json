@@ -32,6 +32,10 @@
 		"email": "david.kizivat@gmail.com",
 		"url": "https://twitter.com/kizivat"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kizivat/svelte-autoscroll"
+	},
 	"license": "MIT",
 	"devDependencies": {
 		"typescript": "^4.9.4"

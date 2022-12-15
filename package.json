@@ -1,0 +1,38 @@
+{
+	"name": "@kizivat/svelte-autoscroll",
+	"version": "0.1.0",
+	"description": "Svelte action to automatically scroll to the end of an element.",
+	"scripts": {
+		"build": "tsc"
+	},
+	"type": "module",
+	"types": "dist/index.d.ts",
+	"files": [
+		"dist",
+		"src",
+		"*.d.ts"
+	],
+	"exports": {
+		".": {
+			"types": "./dist/index.d.ts",
+			"import": "./dist/index.js"
+		},
+		"./package.json": "./package.json"
+	},
+	"keywords": [
+		"svelte",
+		"autoscroll",
+		"action",
+		"svelte action",
+		"autoscroll action"
+	],
+	"author": {
+		"name": "David Kizivat",
+		"email": "david.kizivat@gmail.com",
+		"url": "https://twitter.com/kizivat"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"typescript": "^4.9.4"
+	}
+}
